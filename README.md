@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fosgate29
-- 👀 I’m interested in Javascript, Nodejs, Solidity and React
+- 👀 I’m interested in Javascript, Nodejs, Solidity and React. I wrote contracts for [huxleysaga.com](https://huxleysaga.com/), [lovedeathandart.com](https://www.lovedeathandart.com/) and [lollipop.racing](https://www.lollipop.racing/)
 - 🌱 I’m currently learning a lot of things
 - I’m looking to collaborate on Solidity and React projects
 - 📫 How to reach me e m a i 1 : luizhamilton 2  9  @ gmail.com
